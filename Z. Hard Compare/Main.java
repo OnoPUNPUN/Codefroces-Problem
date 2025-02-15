@@ -1,23 +1,21 @@
 import java.util.Scanner;
 
 public class Main {
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int a = sc.nextInt();
-        int b = sc.nextInt();
-        int c = sc.nextInt();
-        int d = sc.nextInt();
+        long a = sc.nextLong();
+        long b = sc.nextLong();
+        long c = sc.nextLong();
+        long d = sc.nextLong();
 
-        int x = (int) Math.pow(a, b);
-        
-        int y = (int) Math.pow(c, d);
+        double A = b * Math.log(a);
+        double B = d * Math.log(c);
 
-        if (x > y) {
-            System.out.println("NO");
-        } else {
+        if (A > B) {
             System.out.println("YES");
+        } else {
+            System.out.println("NO");
         }
 
         sc.close();
