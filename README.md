@@ -47,14 +47,6 @@ This repo includes solutions for problems from the following sheets:
    java Summation
    ```
 
-## 🤝 Contributing
-
-We welcome contributions! If you want to improve a solution or add an alternative approach:
-
-1. Fork the repo
-2. Make your changes
-3. Create a pull request
-
 ## 📧 Contact
 
 For any queries or discussions, feel free to open an issue or reach out.
