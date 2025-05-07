@@ -35,7 +35,7 @@ This repo includes solutions for problems from the following sheets:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo-name.git](https://github.com/OnoPUNPUN/Codefroces-Problem.git
+   git clone https://github.com/OnoPUNPUN/Codefroces-Problem.git
    ```
 2. Navigate to a problem folder:
    ```sh
