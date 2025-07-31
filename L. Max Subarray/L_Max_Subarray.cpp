@@ -20,3 +20,7 @@ int maxSubarray(int* arr, int n){
     
     return maxSum;
 }
+
+int main(){
+    
+}
