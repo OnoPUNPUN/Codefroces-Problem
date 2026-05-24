@@ -1,0 +1,15 @@
+c:\Users\tonmo\Documents\CP\Codefroces-Problem\B. Your Name\.cphcsrun\obj\Release\net10.0\.cphcsrun.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\tonmo\Documents\CP\Codefroces-Problem\B. Your Name\.cphcsrun\obj\Release\net10.0\.cphcsrun.AssemblyInfoInputs.cache
+c:\Users\tonmo\Documents\CP\Codefroces-Problem\B. Your Name\.cphcsrun\obj\Release\net10.0\.cphcsrun.AssemblyInfo.cs
+c:\Users\tonmo\Documents\CP\Codefroces-Problem\B. Your Name\.cphcsrun\obj\Release\net10.0\.cphcsrun.csproj.CoreCompileInputs.cache
+c:\Users\tonmo\Documents\CP\Codefroces-Problem\B. Your Name\.cphcsrun\obj\Release\net10.0\.cphcsrun.sourcelink.json
+c:\Users\tonmo\Documents\CP\Codefroces-Problem\B. Your Name\.cphcsrun\obj\Release\net10.0\.cphcsrun.dll
+c:\Users\tonmo\Documents\CP\Codefroces-Problem\B. Your Name\.cphcsrun\obj\Release\net10.0\refint\.cphcsrun.dll
+c:\Users\tonmo\Documents\CP\Codefroces-Problem\B. Your Name\.cphcsrun\obj\Release\net10.0\.cphcsrun.pdb
+c:\Users\tonmo\Documents\CP\Codefroces-Problem\B. Your Name\B_Your_Name_bin\.cphcsrun.exe
+c:\Users\tonmo\Documents\CP\Codefroces-Problem\B. Your Name\B_Your_Name_bin\.cphcsrun.deps.json
+c:\Users\tonmo\Documents\CP\Codefroces-Problem\B. Your Name\B_Your_Name_bin\.cphcsrun.runtimeconfig.json
+c:\Users\tonmo\Documents\CP\Codefroces-Problem\B. Your Name\B_Your_Name_bin\.cphcsrun.dll
+c:\Users\tonmo\Documents\CP\Codefroces-Problem\B. Your Name\B_Your_Name_bin\.cphcsrun.pdb
+c:\Users\tonmo\Documents\CP\Codefroces-Problem\B. Your Name\.cphcsrun\obj\Release\net10.0\.cphcsrun.genruntimeconfig.cache
+c:\Users\tonmo\Documents\CP\Codefroces-Problem\B. Your Name\.cphcsrun\obj\Release\net10.0\ref\.cphcsrun.dll
